@@ -1,0 +1,7 @@
+Document 6: entry 1
+Document 6: entry 2
+Document 6: entry 3
+Document 6: entry 4
+Document 6: entry 5
+Document 6: entry 6
+Document 6: entry 7

@@ -1,0 +1,10 @@
+{
+  "name": "file-merger",
+  "version": "1.0.0",
+  "description": "Copies 1 line from file 1, 2 lines from file 2, ... n lines from file n into a new file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
